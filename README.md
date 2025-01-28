@@ -1,3 +1,4 @@
+
 # 👋 Hi there, I'm Ludmil Avelino (@ludmilpaulo)
 
 I'm a **full-stack developer** with a passion for building scalable and user-friendly applications. With experience in both front-end and back-end development, I thrive on creating seamless solutions that blend functionality and design.
