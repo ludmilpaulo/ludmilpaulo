@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm hanhdo_!
 
-> "Hi there! I'm Ludmil Paulo 👋"  
+> "Hi there! I'm hanhdo_ 👋"  
 > "A Senior Software Engineer 🚀"  
 > "Passionate Full-Stack Developer 💻"  
 > "Lover of Clean Code and Design 🎨"  
