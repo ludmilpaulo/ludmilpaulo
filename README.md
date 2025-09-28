@@ -1,6 +1,6 @@
 
 
-# 👋 Hi there, I'm Ludmil Paulo!
+# 👋 Hi there, I'm hanhdo_!
 
 > "Hi there! I'm Ludmil Paulo 👋"  
 > "A Senior Software Engineer 🚀"  
@@ -51,10 +51,8 @@ I'm looking to collaborate on projects that:
 
 ## 🌐 Connect with Me
 
-- 📫 **Email:** ludmilpaulo@gmail.com
-- 🌍 **Portfolio:** [ludmilpaulo.co.za](https://ludmilpaulo.co.za/)
-- 🐙 **GitHub:** [github.com/ludmilpaulo](https://github.com/ludmilpaulo)
-- 🔗 **LinkedIn:** [linkedin.com/in/ludmilpaulo](https://www.linkedin.com/in/ludmilpaulo/)
+- X: https://x.com/hanhdo_
+- Telegram: https://t.me/hanhdo_eth
 
 ---
 
