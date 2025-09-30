@@ -1,8 +1,8 @@
 
 
-# 👋 Hi there, I'm hanhdo_!
+# 👋 Hi there
 
-> "Hi there! I'm hanhdo_ 👋"  
+> "Hi there!"  
 > "A Senior Software Engineer 🚀"  
 > "Passionate Full-Stack Developer 💻"  
 > "Lover of Clean Code and Design 🎨"  
@@ -47,12 +47,6 @@ I'm looking to collaborate on projects that:
 - Collaborating on open-source projects
 - Exploring cutting-edge technologies like AI and blockchain
 
----
-
-## 🌐 Connect with Me
-
-- X: https://x.com/hanhdo_
-- Telegram: https://t.me/hanhdo_eth
 
 ---
 
