@@ -1,0 +1,33 @@
+name: Update README from API
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"  # every hour
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate README
+        run: |
+          python scripts/generate_readme.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "readme-bot"
+          git config user.email "readme-bot@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: sync README from my_info API"
+          git push
