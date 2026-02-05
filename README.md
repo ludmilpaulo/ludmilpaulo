@@ -1,7 +1,9 @@
-<!-- AUTO-GENERATED: Do not edit by hand. Edit scripts/generate_readme.py instead. --><!-- Source: https://ludmil.pythonanywhere.com/my_info/ | Updated: 2026-02-05 16:36 UTC -->
+<!-- AUTO-GENERATED: Do not edit by hand. Edit scripts/generate_readme.py instead. --><!-- Source: https://ludmil.pythonanywhere.com/my_info/ | Updated: 2026-02-05 17:42 UTC -->
 <h1 align="center">Hi, I'm Ludmil Avelino</h1>
 <p align="center"><b>Founder • Software Engineer • Full Stack Developer</b></p>
-
+<p align="center">
+  ![Typing intro](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Founder+%E2%80%A2+Software+Engineer;Digital+Solutions+Expert;Full+Stack+Developer;Business+Builder;Mentor+%26+Consultant;Tech+Innovator;Problem+Solver)
+</p>
 <p align="center"><img src="https://ludmil.pythonanywhere.com/media/avatar/lud.jpeg" width="110" style="border-radius:999px;" /></p>
 <p align="center">
   I craft scalable, user-friendly web & mobile products, help businesses grow,<br/>
@@ -109,4 +111,4 @@ Cape Peninsula University of Technology (CPUT) Developed a strong foundation in 
 
 </p>
 
-<p align="center">✨ <b>Last synced from API:</b> 2026-02-05 16:36 UTC</p>
+<p align="center">✨ <b>Last synced from API:</b> 2026-02-05 17:42 UTC</p>
