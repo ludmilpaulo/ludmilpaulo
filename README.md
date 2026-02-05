@@ -1,31 +1,40 @@
-<!-- Portfolio-style GitHub Profile README (closest possible UI/UX match to https://www.ludmilpaulo.co.za) -->
+<!-- Portfolio-style GitHub Profile README for @ludmilpaulo -->
 
-<p align="center">
-  <a href="https://www.ludmilpaulo.co.za">
-    <img src="assets/hero.png" alt="Ludmil Paulo — Portfolio Banner" width="100%" />
-  </a>
-</p>
+<!-- =========
+COLOR TOKENS (REPLACE THESE WITH YOUR PORTFOLIO HEX)
+- ACCENT: your main brand color (buttons/links)
+- ACCENT2: secondary accent (optional)
+- DARK: dark button color
+- LIGHT: light text color
+========== -->
+<!-- ACCENT  = 2563EB -->
+<!-- ACCENT2 = 22C55E -->
+<!-- DARK    = 111827 -->
+<!-- LIGHT   = FFFFFF -->
 
 <h1 align="center">Hi, I'm Ludmil Paulo</h1>
 
 <p align="center">
-  <b>Full Stack Developer & Software Engineer</b>
+  <b>Senior Software Engineer • Full Stack Developer</b>
 </p>
 
+<!-- Animated typing intro -->
 <p align="center">
-  I craft scalable, user-friendly web & mobile products, help businesses grow, and love solving real-world problems with code.<br/>
-  Let's build something impactful together.
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2500&pause=900&center=true&vCenter=true&width=850&lines=I+craft+scalable%2C+user-friendly+web+%26+mobile+products.;I+help+businesses+grow+with+clean+systems+%26+great+UI%2FUX.;Let's+build+something+impactful+together."
+    alt="Typing intro"
+  />
 </p>
 
 <p align="center">
   <a href="https://www.ludmilpaulo.co.za/#connect">
-    <img alt="Let's Connect" src="https://img.shields.io/badge/Let's%20Connect-%E2%86%92-111111?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Let's%20Connect-2563EB?style=for-the-badge&logoColor=FFFFFF" alt="Let's Connect" />
   </a>
   <a href="https://www.ludmilpaulo.co.za/Projects">
-    <img alt="See My Work" src="https://img.shields.io/badge/See%20My%20Work-111111?style=for-the-badge">
+    <img src="https://img.shields.io/badge/See%20My%20Work-111827?style=for-the-badge&logoColor=FFFFFF" alt="See My Work" />
   </a>
   <a href="https://www.ludmilpaulo.co.za/project-inquiry">
-    <img alt="Start Project" src="https://img.shields.io/badge/Start%20Project-111111?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Start%20Project-22C55E?style=for-the-badge&logoColor=FFFFFF" alt="Start Project" />
   </a>
 </p>
 
@@ -39,25 +48,27 @@
 
 <br/>
 
+<!-- Professional layout: About + Focus -->
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
       <h2>About</h2>
       <p>
-        I’m a Senior Software Engineer & Full-Stack Developer focused on building fast, clean, production-ready products.
-        I love solving real-world problems with scalable systems and great UI/UX.
+        I craft scalable, user-friendly web &amp; mobile products, help businesses grow, and love solving real-world problems with code.
+        Let’s build something impactful together.
       </p>
       <p>
-        👉 Full details: <a href="https://www.ludmilpaulo.co.za/About">ludmilpaulo.co.za/About</a>
+        🌐 Portfolio: <a href="https://www.ludmilpaulo.co.za">www.ludmilpaulo.co.za</a><br/>
+        🔐 Client Portal: <a href="https://www.ludmilpaulo.co.za/client-login">Client Login</a><br/>
+        🧩 Projects: <a href="https://www.ludmilpaulo.co.za/Projects">See My Work</a>
       </p>
     </td>
-    <td valign="top" width="50%">
-      <h2>Quick Links</h2>
+    <td valign="top" width="40%">
+      <h2>Current Focus</h2>
       <ul>
-        <li>🌐 Portfolio: <a href="https://www.ludmilpaulo.co.za">ludmilpaulo.co.za</a></li>
-        <li>🧩 Work: <a href="https://www.ludmilpaulo.co.za/Projects">Projects</a></li>
-        <li>🚀 Start Project: <a href="https://www.ludmilpaulo.co.za/project-inquiry">Project Inquiry</a></li>
-        <li>🔐 Client Portal: <a href="https://www.ludmilpaulo.co.za/client-login">Client Login</a></li>
+        <li>Building fast, clean web &amp; mobile products</li>
+        <li>Scalable Django + Next.js + React Native systems</li>
+        <li>Professional UI/UX &amp; product delivery</li>
       </ul>
     </td>
   </tr>
@@ -65,46 +76,75 @@
 
 <hr/>
 
-<h2>Experience</h2>
-<p>
-  View my full timeline here:
-  👉 <a href="https://www.ludmilpaulo.co.za/Experience">ludmilpaulo.co.za/Experience</a>
-</p>
-
-<hr/>
-
+<!-- Skills -->
 <h2>Skills</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logoColor=FFFFFF" />
+</p>
+
 <p>
-  Full skills list (always updated):
-  👉 <a href="https://www.ludmilpaulo.co.za/Skills">ludmilpaulo.co.za/Skills</a>
+  Full skills list: <a href="https://www.ludmilpaulo.co.za/Skills">ludmilpaulo.co.za/Skills</a>
+</p>
+
+<hr/>
+
+<!-- Live GitHub stats -->
+<h2>Live GitHub Stats</h2>
+
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=ludmilpaulo&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true"
+       alt="GitHub stats" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmilpaulo&layout=compact&hide_border=true"
+       alt="Top languages" />
 </p>
 
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-111111?style=for-the-badge">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge">
-  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-111111?style=for-the-badge">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge">
-  <img alt="Django" src="https://img.shields.io/badge/Django-111111?style=for-the-badge">
-  <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=for-the-badge">
+  <img
+    src="https://streak-stats.demolab.com?user=ludmilpaulo&hide_border=true"
+    alt="GitHub streak"
+  />
 </p>
 
 <hr/>
 
-<h2>Projects</h2>
-<p>
-  Browse Live / Upcoming / In Progress:
-  👉 <a href="https://www.ludmilpaulo.co.za/Projects">ludmilpaulo.co.za/Projects</a>
-</p>
-
-<hr/>
-
-<h2>Education</h2>
-<p>
-  👉 <a href="https://www.ludmilpaulo.co.za/Education">ludmilpaulo.co.za/Education</a>
-</p>
-
-<hr/>
+<!-- Featured projects (cards) -->
+<h2>Featured Projects</h2>
 
 <p align="center">
-  ✨ <b>Let's create solutions that inspire and impact!</b>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ludmilpaulo&repo=portifolio&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ludmilpaulo&repo=portifolio_back_end&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ludmilpaulo&repo=food_deliver&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ludmilpaulo&repo=ludmilportifolio&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ludmilpaulo&repo=control-the-budget-and-manage-a-to-do-list&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ludmilpaulo&repo=ludmilpaulo&hide_border=true" />
+</p>
+
+<hr/>
+
+<h2>Portfolio Sections</h2>
+
+<ul>
+  <li><b>About</b> → https://www.ludmilpaulo.co.za/About</li>
+  <li><b>Experience</b> → https://www.ludmilpaulo.co.za/Experience</li>
+  <li><b>Skills</b> → https://www.ludmilpaulo.co.za/Skills</li>
+  <li><b>Projects</b> → https://www.ludmilpaulo.co.za/Projects</li>
+  <li><b>Education</b> → https://www.ludmilpaulo.co.za/Education</li>
+</ul>
+
+<p align="center">
+  ✨ <b>Let’s create solutions that inspire and impact!</b>
 </p>
