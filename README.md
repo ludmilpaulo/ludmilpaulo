@@ -1,53 +1,51 @@
+<!-- Profile README — synced with https://www.ludmilpaulo.co.za -->
 
+# Hi, I'm Ludmil Paulo
 
-# 👋 Hi there
+I craft scalable, user-friendly web & mobile products, help businesses grow, and love solving real-world problems with code.  
+Let’s build something impactful together.
 
-> "Hi there!"  
-> "A Senior Software Engineer 🚀"  
-> "Passionate Full-Stack Developer 💻"  
-> "Lover of Clean Code and Design 🎨"  
-> "Turning Ideas into Reality ✨"  
-> "Forever a Curious Learner 📚"  
-> "Here to Solve Problems 🔍"  
-> "Driven to Innovate and Inspire 🌟"  
+**Full Stack Developer & Software Engineer**
 
 ---
 
-I'm a **Senior Software Engineer**, a **Full-Stack Developer**, and a **Tech Enthusiast**. I love building innovative solutions, solving complex problems, and constantly learning new things.
-
-## 👀 About Me
-
-- 🌱 I’m constantly improving my skills in **Python**, **JavaScript**, **TypeScript**, and modern frameworks like **React**, **React Native**, **Next.js**, and **Django**.
-- 🚀 Passionate about solving real-world problems through technology, particularly in **financial tracking**, **task management**, and **agri-tech** solutions.
-- 💼 Currently exploring opportunities in **software engineering** to work on impactful projects.
-
----
-
-## 💻 My Skillset
-
-- **Languages:** Python, JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** React, Next.js, Django, Angular, React Native
-- **Tools & Libraries:** TailwindCSS, Redux, RESTful APIs, Firebase
-- **Other Skills:** UI/UX Design, Mobile App Development, Database Management, Version Control (Git/GitHub)
+## Quick Links
+- 🌐 **Portfolio:** https://www.ludmilpaulo.co.za  
+- 🤝 **Let’s Connect:** https://www.ludmilpaulo.co.za/#connect  
+- 🧩 **See My Work:** https://www.ludmilpaulo.co.za/Projects  
+- 🚀 **Start Project:** https://www.ludmilpaulo.co.za/project-inquiry  
+- 🔐 **Client Portal:** https://www.ludmilpaulo.co.za/client-login  
 
 ---
 
-## 💞️ Collaboration
-
-I'm looking to collaborate on projects that:
-
-- Help businesses scale through efficient and user-centric software solutions.
-- Focus on innovative **mobile** or **web applications**.
-- Explore exciting domains like **AI**, **blockchain**, or **automation**.
+## About
+If you want the full story, it’s always updated on my portfolio:  
+👉 https://www.ludmilpaulo.co.za/About
 
 ---
 
-## 🌟 My Current Focus:
-- Building impactful web and mobile applications
-- Collaborating on open-source projects
-- Exploring cutting-edge technologies like AI and blockchain
-
+## Experience
+My experience timeline lives here (kept current):  
+👉 https://www.ludmilpaulo.co.za/Experience
 
 ---
 
-✨ _"Let's create solutions that inspire and impact!"_
+## Skills
+A complete, sortable skills view is on the portfolio:  
+👉 https://www.ludmilpaulo.co.za/Skills
+
+---
+
+## Projects
+Browse my work by category (Live / Upcoming / In Progress / Clone):  
+👉 https://www.ludmilpaulo.co.za/Projects
+
+---
+
+## Education
+My education section is here:  
+👉 https://www.ludmilpaulo.co.za/Education
+
+---
+
+✨ Let’s create solutions that inspire and impact!
