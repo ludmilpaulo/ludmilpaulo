@@ -1,4 +1,4 @@
-<!-- AUTO-GENERATED: Do not edit by hand. Edit scripts/generate_readme.py instead. --><!-- Source: https://ludmil.pythonanywhere.com/my_info/ | Updated: 2026-02-19 19:35 UTC -->
+<!-- AUTO-GENERATED: Do not edit by hand. Edit scripts/generate_readme.py instead. --><!-- Source: https://ludmil.pythonanywhere.com/my_info/ | Updated: 2026-02-19 20:24 UTC -->
 <h1 align="center">Hi, I'm Ludmil Avelino</h1>
 <p align="center"><b>Founder • Software Engineer • Full Stack Developer</b></p>
 <p align="center">
@@ -59,19 +59,15 @@ Cape Town, South AfricaDeveloped and maintained internal systems for project man
 
 ---
 ## Featured Projects (Live)
-### Debaren
-Debaren is a modern digital solution for venue management, bookings, and event scheduling. Designed for scalability, the platform allows easy management of large inventories, advanced user permissions, and real-time a...
+### Kudya: A Comprehensive Food Delivery Solution
+Kudya: A Comprehensive Food Delivery SolutionKudya is a robust food delivery application designed to streamline the ordering and delivery process for both customers and restaurants. The project features a comprehensiv...
 
-[Live Demo](https://www.debaren.com/) • [GitHub](https://github.com/ludmilpaulo/debaren)
+[Live Demo](https://www.sdkudya.com/HomeScreen) • [GitHub](https://github.com/ludmilpaulo/)
 
-**Tech:** NextJS, ASANA, React
+### The-Movie-Database-API
+The Movie Database API ProjectOverview: This project is a dynamic web application designed to bring movie enthusiasts closer to their favorite films. Leveraging The Movie Database API, the application provides a compr...
 
-### TBAE
-TBAE (Team Building and Events) is a robust event management platform for South Africa, allowing organizations to plan, book, and manage team building activities, conferences, and venues. The platform integrates with ...
-
-[Live Demo](https://www.tbae.co.za/) • [GitHub](https://github.com/ludmilpaulo/tbae)
-
-**Tech:** NextJS, Django, AWS, React Native
+[Live Demo](https://movie-ca9d2.web.app/) • [GitHub](https://github.com/ludmilpaulo/The-Movie-Database-API?tab=readme-ov-file)
 
 ### Ghanade
 An innovative e-commerce marketplace built for West Africa. Ghanade connects buyers and sellers, offers seamless payment integration, and supports real-time order tracking. The project prioritizes speed, mobile-first ...
@@ -80,10 +76,12 @@ An innovative e-commerce marketplace built for West Africa. Ghanade connects buy
 
 **Tech:** NextJS, Django, ASANA
 
-### The-Movie-Database-API
-The Movie Database API ProjectOverview: This project is a dynamic web application designed to bring movie enthusiasts closer to their favorite films. Leveraging The Movie Database API, the application provides a compr...
+### TBAE
+TBAE (Team Building and Events) is a robust event management platform for South Africa, allowing organizations to plan, book, and manage team building activities, conferences, and venues. The platform integrates with ...
 
-[Live Demo](https://movie-ca9d2.web.app/) • [GitHub](https://github.com/ludmilpaulo/The-Movie-Database-API?tab=readme-ov-file)
+[Live Demo](https://www.tbae.co.za/) • [GitHub](https://github.com/ludmilpaulo/tbae)
+
+**Tech:** NextJS, Django, AWS, React Native
 
 
 ---
@@ -111,4 +109,4 @@ Cape Peninsula University of Technology (CPUT) Developed a strong foundation in 
 
 </p>
 
-<p align="center">✨ <b>Last synced from API:</b> 2026-02-19 19:35 UTC</p>
+<p align="center">✨ <b>Last synced from API:</b> 2026-02-19 20:24 UTC</p>
